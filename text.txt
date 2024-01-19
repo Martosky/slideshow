@@ -1,0 +1,1 @@
+this is a simple slide show project.
