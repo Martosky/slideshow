@@ -1,1 +1,3 @@
 this is a simple slide show project.
+improving the development pace of my application.
+it's getting better and looking good now.
